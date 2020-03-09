@@ -1,5 +1,6 @@
 google.com, pub-8582114984097760, DIRECT, f088c47fec942fa0
 adcolony.com, e0355e23aa56b4c34dacf5ece1c237bc, RESELLER, 1ad675c9de6b5176
+adcolony.com, 18a97784127f9bb1ce5ca7a0ac39e526 , RESELLER, 1ad675c9de6b5176
 applovin.com, 5a7f80d6d508c0ebe7007ddb1c4cd8b1, RESELLER
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
@@ -7,7 +8,10 @@ Axonix.com, 56266, RESELLER
 ironsrc.com, 211945, RESELLER, 79929e88b2ba73bc
 mintegral.com, 12101, RESELLER
 mobfox.com, 44666, RESELLER
-Google.com, pub-1467174215800884, RESELLER
+google.com, pub-8452579215562824, RESELLER, f08c47fec0942fa0
+google.com, pub-1467174215800884, RESELLER
+rubiconproject.com, 21604, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1430, RESELLER
 smartadserver.com, 1289, RESELLER  
 smartadserver.com, 3042, RESELLER
 tapjoy.com, a92a273e84854428a4d61a1867f58639, RESELLER, 29e595b1aeb5904d
@@ -27,8 +31,26 @@ openx.com, 540338069, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 1605779867, RESELLER, a670c89d4a324e47
 rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
 Vungle.com, 56f167bda94d7ae44a000103, RESELLER, c107d686becd2d77
-Openx.com, 540280728, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13626, RESELLER, 0bfd66d529a55807
+pubnative.net, 1007302, RESELLER, d641df8625486a7b
+pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
+openx.com, 537152826, RESELLER, 6a698e2ec38604c6
+openx.com, 539472296, RESELLER, 6a698e2ec38604c6
+appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
+contextweb.com, 561884, RESELLER, 89ff185a4c4e857c
+rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
+improvedigital.com, 1366, RESELLER
+EMXDGT.com, 1324, RESELLER, 1e1d41537f7cad7f
+engagebdr.com, 10252, RESELLER
+bidmachine.io, 55, RESELLER
+bidmachine.io, 59, RESELLER
 Appnexus.com, 10128, RESELLER, f5ab79cb980f11d1
+Openx.com, 540280728, RESELLER, 6a698e2ec38604c6
 Indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
 Inmobi.com, 2e0484e00bf84f35b133019004ef76a4, RESELLER, 83e75a7ae333ca9d
 Loopme.com, 10999, RESELLER, 6c8d5f95897a5a3b
@@ -45,4 +67,4 @@ districtm.io, 101760, RESELLER, 3fd707be9c4527c3
 loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 Ogury.com, d1dadb5d54cf98bd7bb311c4fcc12932, DIRECT
-
+Ogury.com, a2e4e6585a05aad14ce6f77316b20596, DIRECT
