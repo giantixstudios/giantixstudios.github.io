@@ -17,7 +17,6 @@ appads.in, 106246, RESELLER
 appads.in, 107606, RESELLER
 appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11826, RESELLER
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13227, RESELLER
 appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
@@ -31,6 +30,7 @@ bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 162, RESELLER
 bidmachine.io, 67, RESELLER
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
@@ -86,7 +86,6 @@ pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
@@ -161,6 +160,7 @@ themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+unity.com, 5167272, DIRECT, 96cabb5fbdde37a7
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
@@ -171,7 +171,6 @@ video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 392157850, RESELLER
 video.unrulymedia.com, 819070080, RESELLER
-video.unrulymedia.com, 995298565, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 vidoomy.com, 7646534, RESELLER
 webeyemob.com, 70097, RESELLER
